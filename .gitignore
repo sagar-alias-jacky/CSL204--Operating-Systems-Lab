@@ -1,0 +1,15 @@
+*.pdf
+*.docx
+*.doc
+*.exe
+*.out
+*.ini
+*.vscode
+*.json
+**/Practice/
+*.idea
+*CMake
+*cmake
+!programs
+
+

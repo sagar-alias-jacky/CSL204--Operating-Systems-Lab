@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/jacky/Jacky/Coding/C/College/S4 OS Lab/SystemCalls/execAndwait.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+
+/run/media/jacky/Jacky/Coding/C/College/S4 OS Lab/SystemCalls/program2.c
+stdio.h
+-
+unistd.h
+-
+

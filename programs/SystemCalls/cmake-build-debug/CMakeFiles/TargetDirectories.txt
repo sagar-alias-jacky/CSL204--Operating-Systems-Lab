@@ -1,0 +1,3 @@
+/run/media/jacky/Jacky/Coding/C/College/S4 OS Lab/SystemCalls/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/jacky/Jacky/Coding/C/College/S4 OS Lab/SystemCalls/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/jacky/Jacky/Coding/C/College/S4 OS Lab/SystemCalls/cmake-build-debug/CMakeFiles/SystemCalls.dir
